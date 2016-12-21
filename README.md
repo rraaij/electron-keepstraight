@@ -1,3 +1,4 @@
+based on: https://github.com/rraaij/electron-keepstraight
 
 # Angular2 Electron Starter (with angular cli)
 

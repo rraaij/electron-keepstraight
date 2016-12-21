@@ -29,6 +29,6 @@ npm run package
 ```
 
 TODO:
-- add material design (material.angular.io)
+- add material design (material.angular.io) https://github.com/jelbourn/material2-app
 - add jest / mocha / chai for testing
 - add cypress.io for e2e testing?

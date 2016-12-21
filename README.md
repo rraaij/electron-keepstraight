@@ -27,3 +27,8 @@ npm run electron
 npm run package
 
 ```
+
+TODO:
+- add material design (material.angular.io)
+- add jest / mocha / chai for testing
+- add cypress.io for e2e testing?

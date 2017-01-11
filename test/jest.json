@@ -4,9 +4,9 @@
   "transform": {
     "^.+\\.(ts|tsx)$": "<rootDir>/test/preprocessor.js"
   },
-  "collectCoverage": true,
-  "coverageReporters": ["json"],
+  "collectCoverage": false,
   "collectCoverageFrom": ["src/**/*.ts", "!**/node_modules/**", "!**/dist/**"],
+  "coverageReporters": ["json"],
   "coverageDirectory": "<rootDir>/test/coverage",
   "moduleNameMapper": {
     "^.+\\.(css|scss)$": "<rootDir>/test/styleMock.js"
